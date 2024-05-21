@@ -30,6 +30,7 @@ HTML (index.html)
 Adicionar Dígitos e Pontos Decimais:
 
 Dígitos e pontos decimais podem ser adicionados à operação atual.
+
 Operações Básicas:
 
 Adição, subtração, multiplicação e divisão.
